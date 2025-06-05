@@ -88,6 +88,7 @@ yolo task=detect mode=predict model=runs/train/exp/weights/best.pt source=test_i
 
  ##  Contact:
  For questions, suggestions, or collaboration:
+ 
  Prof. Dr. Benjamin Leiding
  - Professor at DIGIT – Center for Digital Technologies -> benjamin.leiding@tu-clausthal.de
  
